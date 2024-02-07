@@ -1,0 +1,5 @@
+### run server
+
+```
+go run .
+```
